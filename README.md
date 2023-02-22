@@ -1,9 +1,8 @@
 # ORM E-commerce Back End
 
 To Do
-- models/Category.js
 - models/index.js
-- models/product.js
+- models/product.js - validate stock is integer?
 - models/producttag.js
 - models/tag.js
 - routes/api/category-routes.js
