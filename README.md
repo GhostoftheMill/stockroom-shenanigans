@@ -2,7 +2,6 @@
 
 To Do
 - models/product.js - validate stock is integer?
-- routes/api/product-routes.js
 - README
 
 - use Insomnia
